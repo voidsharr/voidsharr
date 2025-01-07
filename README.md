@@ -1,14 +1,14 @@
 <div align="center">
-<img src="https://github.com/voidsharr/voidsharr/blob/main/assets/anime-write.gif" width="25%" align="right" />
+<img src="https://github.com/voidsharr/voidsharr/blob/main/assets/For_the_Cosmic_Dance_of_Shiva%2C_Parvati%2C_Ganesha%2C_Kattikeya_and_Banasura_playing_musical_instruments.jpg" height = "300" width = "440" align="right" />
 <br><br>
 <pre>
-    <!--  💻 System programming languages • DevOps -->
+    <h2>🙏🏼 to the roots </h2>
     📖 FOSS Game Projects
     🎮 Indie Game Dev • Tutorials • 3D Modeling • 2D Art
     <!--   Game Project #1  • Other Content -->
 </pre>
 <br><br>
-<img src="https://github.com/voidsharr/voidsharr/blob/main/assets/For_the_Cosmic_Dance_of_Shiva%2C_Parvati%2C_Ganesha%2C_Kattikeya_and_Banasura_playing_musical_instruments.jpg" />
+<img src="https://github.com/voidsharr/voidsharr/blob/main/assets/anime-write.gif"/>
 <br><br><br>
    
 [![](https://img.shields.io/badge/instagram-0a66c2)](https://www.instagram.com/mridulsharr/)
