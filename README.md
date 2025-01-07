@@ -11,7 +11,8 @@
 <img src= "https://github.com/voidsharr/voidsharr/blob/main/assets/For_the_Cosmic_Dance_of_Shiva%2C_Parvati%2C_Ganesha%2C_Kattikeya_and_Banasura_playing_musical_instruments.jpg" width = 25% height = 25% "/>
 <br><br><br>
    
-[![](https://img.shields.io/badge/instagram-0a66c2)](https://www.instagram.com/mridulsharr/)
-[![](https://img.shields.io/badge/x-ff66ab)](https://x.com/voidsharr)
-[![](https://img.shields.io/badge/itch.io-69899c)](https://voidsharr.itch.io)
+[![](https://img.shields.io/badge/instagram-282b4f)](https://www.instagram.com/mridulsharr/)
+[![](https://img.shields.io/badge/x-1a6b23)](https://x.com/voidsharr)
+[![](https://img.shields.io/badge/itch.io-d9ba7e)](https://voidsharr.itch.io)
+[![](https://img.shields.io/badge/DiscordServer-ad3d31)](https://discord.gg/pTFanYZxWr)
 </div>
