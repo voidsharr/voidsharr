@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/voidsharr/voidsharr/blob/main/assets/For_the_Cosmic_Dance_of_Shiva%2C_Parvati%2C_Ganesha%2C_Kattikeya_and_Banasura_playing_musical_instruments.jpg" height = "300" width = "440" align="right" />
+<img src="https://github.com/voidsharr/voidsharr/blob/main/assets/For_the_Cosmic_Dance_of_Shiva%2C_Parvati%2C_Ganesha%2C_Kattikeya_and_Banasura_playing_musical_instruments.jpg" height = "150" width = "220" align="right" />
 <br><br>
 <pre>
     <h2>🙏🏼 to the roots </h2>
