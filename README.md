@@ -8,7 +8,7 @@
     <!--   Game Project #1  • Other Content -->
 </pre>
 <br><br>
-<img src="[https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif](https://github.com/voidsharr/voidsharr/blob/main/assets/For_the_Cosmic_Dance_of_Shiva%2C_Parvati%2C_Ganesha%2C_Kattikeya_and_Banasura_playing_musical_instruments.jpg)" height="40" />
+<img src="https://github.com/voidsharr/voidsharr/blob/main/assets/For_the_Cosmic_Dance_of_Shiva%2C_Parvati%2C_Ganesha%2C_Kattikeya_and_Banasura_playing_musical_instruments.jpg" height="40" />
 <br><br><br>
    
 [![](https://img.shields.io/badge/instagram-0a66c2)](https://www.instagram.com/mridulsharr/)
