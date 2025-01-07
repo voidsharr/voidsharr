@@ -1,5 +1,5 @@
 <div align="center">
- <!--  <img src="https://github.com/voidsharr/voidsharr/blob/main/assets/anime-write.gif" align = "right"/> -->
+<img src="https://github.com/voidsharr/voidsharr/blob/main/assets/tumblr_mwnn22QAHS1rfjowdo1_500.gif" align = "center"/>
 <br><br>
 <pre>
     <h2>🙏🏼 to the roots </h2>
