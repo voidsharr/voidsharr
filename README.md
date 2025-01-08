@@ -1,4 +1,5 @@
 <div align="center">
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=voidsharr&label=Profile%20views&color=0e75b6&style=flat" alt="voidsharr" /> </p>
     <div>
         <img src= "https://github.com/voidsharr/voidsharr/blob/main/assets/anime-write.gif" width = 25% height = 20% align = "left"/>
         <img src="https://github.com/voidsharr/voidsharr/blob/main/assets/tumblr_mwnn22QAHS1rfjowdo1_500.gif" width = 45% height = 55% align = "center" />
