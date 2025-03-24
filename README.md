@@ -10,7 +10,7 @@
     <div>
         <pre>
         <h2>🙏🏼 to the roots </h2>
-            📖 FOSS Game Projects
+            📖 Game Projects
             🎮 Indie Game Dev • Tutorials • 3D Modeling • 2D Art
         <!--   Game Project #1  • Other Content -->
         </pre>
